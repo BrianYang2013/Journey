@@ -15,3 +15,7 @@ Quick review on what had happened in last few weeks
 5. Local meet up: April 22, Estimate Galaxy Distance from Sloan Digital Sky Survey using ML
 6. Looking for resource and support within company
 7. Keep exploring the unknown unknown, keep learning the known unkonwn
+
+The fact about the local meet up:
+1. 40 people show up, more than half are CEO/CTO. Female less than 15%
+2. show case is based on Regression. About 5 people raised meaningful questions. 
