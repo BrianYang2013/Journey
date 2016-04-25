@@ -19,3 +19,4 @@ Quick review on what had happened in last few weeks
 The fact about the local meet up:
 1. 40 people show up, more than half are CEO/CTO. Female less than 15%
 2. show case is based on Regression. About 5 people raised meaningful questions. 
+3. The people sit at my left side (India) is beginer. My right side is a European guy, working on iPython notebook to test his code. My skill is somewhat in middle of them. 
