@@ -25,3 +25,7 @@ The fact about the local meet up:
 
 1. 40 people show up, more than half are CEO/CTO. Female less than 15%
 2. show case is based on Regression. About 5 people raised meaningful questions. 
+
+## May 2, 2016
+* Explore spider, anti-spider and anti anti-spider. 
+* Find a couple of interesting scenarios. 
