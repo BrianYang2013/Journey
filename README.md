@@ -29,3 +29,10 @@ The fact about the local meet up:
 ## May 2, 2016
 * Explore spider, anti-spider and anti anti-spider. 
 * Find a couple of interesting scenarios. 
+ 
+## May 8, 2016
+* Finish first MOOC course: Machine Learning Foundations: A Case Study Approach
+* Wrap up, Revisit all the ipython notebook from that course. 
+* Explore other specialization
+
+
