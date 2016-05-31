@@ -35,4 +35,6 @@ The fact about the local meet up:
 * Wrap up, Revisit all the ipython notebook from that course. 
 * Explore other specialization
 
+## May 31, 2016
+* Start Python for Data Analysis: https://github.com/wesm/pydata-book
 
