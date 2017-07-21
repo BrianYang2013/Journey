@@ -47,7 +47,8 @@ The fact about the local meet up:
 * Finished book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml), haven't run the code especially part II. 
 * Start Coursera: [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 * Start Pandas: [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
-* Prepared Machine Learning Overview, to 4 groups of people. 
+* Prepared Machine Learning Overview slides, give overview to 4 groups
 * Invite world class AI expert to give speech in the company
 * Join company workshop , by Google Research's Philip Nelson and Patrick Riley
-* Clean local meet up pictures and share to team. 6 in 3 months. 
+* Clean local meet up pictures and share to team. 6 in 3 months
+* Start coaching a workmates on machine learning
