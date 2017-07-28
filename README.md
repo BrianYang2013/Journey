@@ -57,4 +57,5 @@ The fact about the local meet up:
 
 ## Useful link
 * Add Table of Content to iPython Notebook: https://zhuanlan.zhihu.com/p/24029578 
+* Another options of ToC: https://github.com/kmahelona/ipython_notebook_goodies
 
