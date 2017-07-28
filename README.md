@@ -52,3 +52,9 @@ The fact about the local meet up:
 * Join company workshop , by Google Research's Philip Nelson and Patrick Riley
 * Clean local meet up pictures and share to team. 6 in 3 months
 * Start coaching a workmates on machine learning
+
+
+
+## Useful link
+* Table of Content: https://zhuanlan.zhihu.com/p/24029578 
+
