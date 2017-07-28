@@ -56,5 +56,5 @@ The fact about the local meet up:
 
 
 ## Useful link
-* Table of Content: https://zhuanlan.zhihu.com/p/24029578 
+* Add Table of Content to iPython Notebook: https://zhuanlan.zhihu.com/p/24029578 
 
