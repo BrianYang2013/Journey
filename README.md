@@ -53,7 +53,12 @@ The fact about the local meet up:
 * Clean local meet up pictures and share to team. 6 in 3 months
 * Start coaching a workmates on machine learning
 
+## Aug 2, 2017
+* 10+ local meet up in the bay area in recent 3 months. Really fun. 
+* Get lots of fun on the reading and coding, but I have to drop for 6 weeks. Will back at end of Sept. 
 
+## Sept 30, 2017
+* Place holder: I am back, with very exciting news! (I wish...)
 
 ## Useful link
 * Add Table of Content to iPython Notebook: https://zhuanlan.zhihu.com/p/24029578 
