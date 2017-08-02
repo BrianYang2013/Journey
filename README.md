@@ -55,7 +55,7 @@ The fact about the local meet up:
 
 ## Aug 2, 2017
 * 10+ local meet up in the bay area in recent 3 months. Really fun. 
-* Get lots of fun on the reading and coding, but I have to drop for 6 weeks. Will back at end of Sept. 
+* Get lots of fun on the reading and coding, but I have to drop for 6-8 weeks. Will back at end of Sept. 
 
 ## Sept 30, 2017
 * Place holder: I am back, with very exciting news! (I wish...)
