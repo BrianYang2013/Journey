@@ -47,15 +47,15 @@ The fact about the local meet up:
 * Finished book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml), haven't run the code especially part II. 
 * Start Coursera: [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 * Start Pandas: [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
-* Prepared Machine Learning Overview slides, give overview to 4 groups
-* Invite world class AI expert to give speech in the company
+* Prepared Machine Learning Overview slides, share knowledge to 4 groups within company
+* Invite world class AI expert to give speech in company
 * Join company workshop , by Google Research's Philip Nelson and Patrick Riley
 * Clean local meet up pictures and share to team. 6 in 3 months
 * Start coaching a workmates on machine learning
 
 ## Aug 2, 2017
-* 10+ local meet up in the bay area in recent 3 months. Really fun. 
-* Get lots of fun on the reading and coding, but I have to drop for 6-8 weeks. Will back at end of Sept. 
+* 10+ local meet up in the bay area in recent. Really fun but I have to say some of them are not make sense. 
+* Get lots of fun on reading and coding, but I have to drop for 6-8 weeks. Will back at end of Sept. 
 
 ## Sept 30, 2017
 * Place holder: I am back, with very exciting news! (I wish...)
