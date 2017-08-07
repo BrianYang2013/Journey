@@ -57,8 +57,8 @@ The fact about the local meet up:
 * 10+ local meet up in the bay area in recent. Really fun but I have to say some of them are not make sense. 
 * Get lots of fun on reading and coding, but I have to drop for 6-8 weeks. Will back at end of Sept. 
 
-## Sept 30, 2017
-* Place holder: I am back, with very exciting news! (I wish...)
+## Aug 7, 2017
+*  Academic and industry lead don't suggest me follow that plan ... So I am back. Will continue my current learning path and more focus on the core skills. 
 
 ## Useful link
 * Add Table of Content to iPython Notebook: https://zhuanlan.zhihu.com/p/24029578 
