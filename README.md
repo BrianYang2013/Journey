@@ -60,7 +60,14 @@ The fact about the local meet up:
 ## Aug 7, 2017
 *  Academic and industry lead don't suggest me follow that plan ... So I am back. Will continue my current learning path and more focus on the core skills. 
 
-## Useful link
+
+# Lesson learn
+* Focus on your core skills. 
+* Practice, practice, practice. 
+* Listen and Learn from others
+* It is a journey that never ends. Keep swimming. 
+
+# Useful link
 * Add Table of Content to iPython Notebook: https://zhuanlan.zhihu.com/p/24029578 
 * Another options of ToC: https://github.com/kmahelona/ipython_notebook_goodies
 
