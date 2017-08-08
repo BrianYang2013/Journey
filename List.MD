@@ -19,6 +19,7 @@
 ## Basic 
 - Git & Github
 - Regex
+- EditPlus
 
 ## Programming
 - Python
