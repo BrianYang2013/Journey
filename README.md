@@ -24,7 +24,7 @@ Quick review on what had happened in last few weeks
 The fact about the local meet up:
 
 1. 40 people show up, more than half are CEO/CTO. Female less than 15%
-2. show case is based on Regression. About 5 people raised meaningful questions. 
+2. show case is based on Regression. About 5 people had raised meaningful questions. 
 
 ## May 2, 2016
 * Explore spider, anti-spider and anti anti-spider. 
@@ -37,9 +37,10 @@ The fact about the local meet up:
 
 ## May 31, 2016
 * Start Python for Data Analysis: https://github.com/wesm/pydata-book
+* Assign a key roles in 1PBW project, 200+ issues. Have to leave for a while
 
 ## May 11, 2017
-* After finish a 6 months crazy projects, a holiday, wrap up, cleaning works on hand, finally I am back!  
+* Project go live! 6 months crazy projects, 2 month hyper care, a holiday, other staff, finally I am back!  
 * Finsh [Numerical and Scientific Computing with SciPy](https://www.packtpub.com/mapt/video/big-data-and-business-intelligence/9781786469427), Spend a week to create note and clean the code. 
 * Start [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml). Amazon start selling this [Book](https://www.amazon.com/gp/product/1491962291/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) at middle April, worth your 28 bucks. Compare to early release version, it comes with better format. 
 
@@ -60,14 +61,13 @@ The fact about the local meet up:
 ## Aug 7, 2017
 *  Academic and industry lead don't suggest me follow that plan ... So I am back. Will continue my current learning path and more focus on the core skills. 
 
+## Aug 8, 2017
+* Plan a more structure way of learning. 
+
 
 # Lesson learn
 * Focus on your core skills. 
 * Practice, practice, practice. 
 * Listen and Learn from others
 * It is a journey that never ends. Keep swimming. 
-
-# Useful link
-* Add Table of Content to iPython Notebook: https://zhuanlan.zhihu.com/p/24029578 
-* Another options of ToC: https://github.com/kmahelona/ipython_notebook_goodies
 
