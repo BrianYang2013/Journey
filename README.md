@@ -63,6 +63,7 @@ The fact about the local meet up:
 
 ## Aug 8, 2017
 * Plan a more structure way of learning. 
+* Andrew NG just announced a new deep learning specialization courses. 3 out of 5 already released, interesting. 
 
 
 # Lesson learn
