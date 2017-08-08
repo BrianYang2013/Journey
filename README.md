@@ -37,10 +37,10 @@ The fact about the local meet up:
 
 ## May 31, 2016
 * Start Python for Data Analysis: https://github.com/wesm/pydata-book
-* Assign a key roles in 1PBW project, 200+ issues. Have to leave for a while
+* Assigned a key project role, 200+ issues on my back now. Have to leave for a while
 
 ## May 11, 2017
-* Project go live! 6 months crazy projects, 2 month hyper care, a holiday, other staff, finally I am back!  
+* Project go live, happy ending! 6 months crazy project + 2 month hyper care + holiday + other staff, finally I am back!  
 * Finsh [Numerical and Scientific Computing with SciPy](https://www.packtpub.com/mapt/video/big-data-and-business-intelligence/9781786469427), Spend a week to create note and clean the code. 
 * Start [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml). Amazon start selling this [Book](https://www.amazon.com/gp/product/1491962291/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) at middle April, worth your 28 bucks. Compare to early release version, it comes with better format. 
 
