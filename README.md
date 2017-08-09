@@ -64,7 +64,10 @@ The fact about the local meet up:
 ## Aug 8, 2017
 * Plan a more structure way of learning. 
 * Andrew NG just announced a new deep learning specialization courses. 3 out of 5 already released, interesting. 
+* Joined a local meetup, Aldo Carrascoso is pretty good, like his speech. 
 
+## Aug 9, 2017
+* Need learn python. Also stats, such as Chi-squared distribution. But let me finish this course, deep learning specialization, rest of the courses in this specialization, and then think about Python and stats (ops, priority sounds like an excuse)
 
 # Lesson learn
 * Focus on your core skills. 
