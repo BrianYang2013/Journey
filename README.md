@@ -67,7 +67,8 @@ The fact about the local meet up:
 * Joined a local meetup, Aldo Carrascoso is pretty good, like his speech. 
 
 ## Aug 9, 2017
-* Need learn python. Also stats, such as Chi-squared distribution. But let me finish this course, deep learning specialization, rest of the courses in this specialization, and then think about Python and stats (ops, priority sounds like an excuse)
+* Need learn python. Also stats, such as Chi-squared distribution or bimodal distribution. But let me finish this course, deep learning specialization, rest of the courses in this specialization, and then think about Python and stats (ops, priority sounds like an excuse)
+* BTW, I think I have the book, Think stats on my bedside. Isn't it ironic? 
 
 # Lesson learn
 * Focus on your core skills. 
