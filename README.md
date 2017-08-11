@@ -71,7 +71,7 @@ The fact about the local meet up:
 * BTW, I think I have the book, Think stats on my bedside. Isn't it ironic? 
 
 ## Aug 11, 
-* Finish coursera course, Introduction to Data Science in Python
+* Finish coursera course, Introduction to Data Science in Python. Hacked data / good heart law / P hacking / New science / All models are wrong, but some are useful
 * Let's working on the new deep learning courses
 
 # Lesson learn
