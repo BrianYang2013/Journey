@@ -70,6 +70,10 @@ The fact about the local meet up:
 * Need learn python. Also stats, such as Chi-squared distribution or bimodal distribution. But let me finish this course, deep learning specialization, rest of the courses in this specialization, and then think about Python and stats (ops, priority sounds like an excuse)
 * BTW, I think I have the book, Think stats on my bedside. Isn't it ironic? 
 
+## Aug 11, 
+* Finish coursera course, Introduction to Data Science in Python
+* Let's working on the new deep learning courses
+
 # Lesson learn
 * Focus on your core skills. 
 * Practice, practice, practice. 
