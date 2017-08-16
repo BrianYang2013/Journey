@@ -77,10 +77,11 @@ The fact about the local meet up:
 
 ## Aug 15
 * Finish coursera course, Neural Networks and Deep Learning. 
-* Ashonish easy, just follow the instruction. Need know a little of Partial derivative and Linear algebra, fortunately I happens to know some basic staff, which helped a lot. 
+* Technically easy, just follow the instruction. Need know a little of Partial derivative and Linear algebra. Complex forumula don't give detail, need Formula Derivation yourself. Still don't know how to design Loss function, Mark. 
+
 
 # Lesson learn
-* Focus on your core skills. 
+* Focus on core skills. 
 * Practice, practice, practice. 
 * Listen and Learn from others
 * It is a journey that never ends. Keep swimming. 
