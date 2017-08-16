@@ -1,6 +1,6 @@
 # Done
 - Coursera: Introduction to Data Science in Python
-- Coursera course, Neural Networks and Deep Learning
+- Coursera: Neural Networks and Deep Learning
 
 
 # Reference
