@@ -1,5 +1,7 @@
 # Done
 - Coursera: Introduction to Data Science in Python
+- Coursera course, Neural Networks and Deep Learning
+
 
 # Reference
 - [Markdown](http://www.jianshu.com/p/q81RER)
