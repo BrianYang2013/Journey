@@ -73,7 +73,11 @@ The fact about the local meet up:
 ## Aug 11, 
 * Finish coursera course, Introduction to Data Science in Python. Hacked data / good heart law / P hacking / New science / All models are wrong, but some are useful
 * This course have lots of place to improvement, basically my suggestions can be found here: https://www.coursera.org/learn/python-data-analysis/discussions/weeks/4/threads/dNQjFn7LEeel8Qr5ueLpXA
-* Let's working on the new deep learning courses
+* Let's working on the new deep learning courses: Neural Networks and Deep Learning
+
+## Aug 15
+* Finish coursera course, Neural Networks and Deep Learning. 
+* Ashonish easy, just follow the instruction. Need know a little of Partial derivative and Linear algebra, fortunately I happens to know some basic staff, which helped a lot. 
 
 # Lesson learn
 * Focus on your core skills. 
