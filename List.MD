@@ -11,6 +11,11 @@
 
 # To do list
 
+## Interesting 
+- https://github.com/lukas/ml-class
+- https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#statistics-machine-learning-and-data-science
+- https://github.com/allmachinelearning/MachineLearning
+
 ## ML
 - ML
 - DL
