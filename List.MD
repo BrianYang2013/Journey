@@ -2,6 +2,9 @@
 - Coursera: Introduction to Data Science in Python
 - Coursera: Neural Networks and Deep Learning
 
+- Local meet up
+
+
 
 # Reference
 - [Markdown](http://www.jianshu.com/p/q81RER)
