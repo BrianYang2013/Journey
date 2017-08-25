@@ -83,6 +83,9 @@ The fact about the local meet up:
 * Enjoyed a short vacation
 * Finish Coursera DL course 2, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
+## Aug 25, 2017
+* Finish Coursera DL course 3, Structuring Machine Learning Projects
+
 # Lesson learn
 * Focus on core skills. 
 * Practice, practice, practice. 
