@@ -2,6 +2,7 @@
 - Coursera: Introduction to Data Science in Python
 - Coursera: Neural Networks and Deep Learning
 - Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- Coursera: Structuring Machine Learning Projects
 
 - Local meet up, 10X
 
