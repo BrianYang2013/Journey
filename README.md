@@ -70,16 +70,16 @@ The fact about the local meet up:
 * Need learn python. Also stats, such as Chi-squared distribution or bimodal distribution. But let me finish this course, deep learning specialization, rest of the courses in this specialization, and then think about Python and stats (ops, priority sounds like an excuse)
 * BTW, I think I have the book, Think stats on my bedside. Isn't it ironic? 
 
-## Aug 11, 
+## Aug 11, 2017
 * Finish coursera course, Introduction to Data Science in Python. Hacked data / good heart law / P hacking / New science / All models are wrong, but some are useful
 * This course have lots of place to improvement, basically my suggestions can be found here: https://www.coursera.org/learn/python-data-analysis/discussions/weeks/4/threads/dNQjFn7LEeel8Qr5ueLpXA
 * Let's working on the new deep learning courses: Neural Networks and Deep Learning
 
-## Aug 15
+## Aug 15, 2017
 * Finish Coursera DL course 1, Neural Networks and Deep Learning. 
 * Technically easy, just follow the instruction. Need know a little of Partial derivative and Linear algebra. Complex forumula don't give detail, need Formula Derivation yourself. Still don't know how to design Loss function, Mark. 
 
-## Aug 24
+## Aug 24, 2017
 * Enjoyed a short vacation
 * Finish Coursera DL course 2, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
