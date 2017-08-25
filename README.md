@@ -76,9 +76,12 @@ The fact about the local meet up:
 * Let's working on the new deep learning courses: Neural Networks and Deep Learning
 
 ## Aug 15
-* Finish coursera course, Neural Networks and Deep Learning. 
+* Finish Coursera DL course 1, Neural Networks and Deep Learning. 
 * Technically easy, just follow the instruction. Need know a little of Partial derivative and Linear algebra. Complex forumula don't give detail, need Formula Derivation yourself. Still don't know how to design Loss function, Mark. 
 
+## Aug 24
+* Enjoyed a short vacation
+* Finish Coursera DL course 2, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 # Lesson learn
 * Focus on core skills. 
