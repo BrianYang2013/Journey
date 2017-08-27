@@ -87,19 +87,18 @@ The fact about the local meet up:
 * Finish Coursera DL course 3, Structuring Machine Learning Projects
 
 ## Aug 27, 2017
-* Finsih Couersera Google - Serverless ML with TF on GCP. I guess Google count KPI by video numbers, not the user experience. I don't run the code (and even some of the video). I'd rather find more updated use cases to practice. Go through the official document and turtorial is also a better option. Not suggest because 
-    * Not update， python 2.7
+* Finsih Couersera Google - Serverless ML with TF on GCP. I guess Google count KPI by video numbers, not the user experience. I don't run the code (and even some of the video). I'd rather run more mature TF use cases. Go through the latest official document and turtorial is also a better option. Not suggest this course because 
+    * Not update， python 2.7 + TF 1.0
     * Too many small clips, should be 4 modules * 10 videos * 10 minutes each
-    * GCP changed significantly, not easy to find the right button. 
+    * GCP changed significantly, not easy to find the right button. Local docker issue
 * Will give myself a little break in next few weeks, take more hands on practice and run more examples. Choose direction: 
     * DS(Python+Scikit Learn)
     * Continue my ML-hands on code
     * Kaggle (SVM/Random Forest/XGB, + Feature engineering) 
     * DL(TF or caff2)
     * BioMedical/Genomic
-    * CS231n
-
-
+    * CS231n
+    
 # Lesson learn
 * Focus on core skills. 
 * Practice, practice, practice. 
