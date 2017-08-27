@@ -86,6 +86,9 @@ The fact about the local meet up:
 ## Aug 25, 2017
 * Finish Coursera DL course 3, Structuring Machine Learning Projects
 
+## Aug 27, 2017
+* Finsih Couersera Google - Serverless ML with TF on GCP. Not suggest because of Not update / 2.7 / Too many small clips. I guess Google count KPI by video numbers, not the user experience. So I don't run the code (and even some of the video). I'd rather find more updated use cases to practice. Go through the official document and turtorial is also a better option. 
+
 # Lesson learn
 * Focus on core skills. 
 * Practice, practice, practice. 
