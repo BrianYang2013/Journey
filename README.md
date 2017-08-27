@@ -93,7 +93,7 @@ The fact about the local meet up:
     * GCP changed significantly, not easy to find the right button. Local docker issue
 * Will give myself a little break in next few weeks, take more hands on practice and run more examples. Choose direction: 
     * DS(Python+Scikit Learn)
-    * Continue my ML-hands on code
+    * Continue my ML-hands on code
     * Kaggle (SVM/Random Forest/XGB, + Feature engineering) 
     * DL(TF or caff2)
     * BioMedical/Genomic
