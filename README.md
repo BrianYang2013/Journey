@@ -88,7 +88,13 @@ The fact about the local meet up:
 
 ## Aug 27, 2017
 * Finsih Couersera Google - Serverless ML with TF on GCP. Not suggest because of Not update， python 2.7 / Too many small clips, should be 4 modules * 10 videos * 10 minutes each / GCP changed, not easy to find the right button. I guess Google count KPI by video numbers, not the user experience. So I don't run the code (and even some of the video). I'd rather find more updated use cases to practice. Go through the official document and turtorial is also a better option. 
-* Will give myself a little break in next few weeks, take more hands more practice and run more examples. And also think of going which direction: DS(Python+Scikit Learn), DL(TF), BioMedical/Genomic. Maybe I should go Kaggle (SVM/Random Forest/XGB, + Feature engineering) 
+* Will give myself a little break in next few weeks, take more hands more practice and run more examples. And also think of going which direction: 
+    * DS(Python+Scikit Learn)
+    * DL(TF)
+    * BioMedical/Genomic
+    * Maybe I should go Kaggle (SVM/Random Forest/XGB, + Feature engineering) 
+    * CS231n
+    * Continue my ML-hands on code
 
 # Lesson learn
 * Focus on core skills. 
