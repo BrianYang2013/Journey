@@ -9,6 +9,7 @@
 # Reference
 ## iPython 
 - [Markdown](http://www.jianshu.com/p/q81RER)
+- [A little bit more about Markdown](http://wen00072.github.io/blog/2013/09/15/learning-markdown-syntax/#blist)
 - [Add Table of Content to iPython Notebook](https://zhuanlan.zhihu.com/p/24029578)
 - [Another light options of ToC](https://github.com/kmahelona/ipython_notebook_goodies)
 
