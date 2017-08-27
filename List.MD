@@ -1,12 +1,10 @@
 # Accomplishments
-- Coursera: Introduction to Data Science in Python
-- Coursera: Neural Networks and Deep Learning
-- Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- Coursera: Structuring Machine Learning Projects
-
+- Coursera: DS - Introduction to Data Science in Python
+- Coursera: DL - Neural Networks and Deep Learning
+- Coursera: DL - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- Coursera: DL - Structuring Machine Learning Projects
+- Coursera: Google - Serverless ML with TF on GCP
 - Local meet up, 10X
-
-
 
 # Reference
 ## iPython 
