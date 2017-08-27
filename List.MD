@@ -9,11 +9,14 @@
 
 
 # Reference
+## iPython 
 - [Markdown](http://www.jianshu.com/p/q81RER)
-- [Add Table of Content to iPython Notebook](https://zhuanlan.zhihu.com/p/24029578)
+- iPython [Add Table of Content to iPython Notebook](https://zhuanlan.zhihu.com/p/24029578)
 - [Another light options of ToC](https://github.com/kmahelona/ipython_notebook_goodies)
-- [Very basic of Git](https://zhuanlan.zhihu.com/p/27831772)
+## ML
 - [ROC and AUC](http://alexkong.net/2013/06/introduction-to-auc-and-roc/)
+## Basic
+- [Very basic of Git](https://zhuanlan.zhihu.com/p/27831772)
 
 # To do list
 
