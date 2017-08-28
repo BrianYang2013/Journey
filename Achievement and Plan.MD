@@ -18,6 +18,7 @@
 - 2017-07-23 Tencent Tech Day
 - 2017-07-27 B2B ML Challenge Discussion
 - 2017-08-01 AI for Physically Embodied System AND Intro to Apache Quickstep
+- 2017-08-08 Latest Innovations in AI
 - 2017-08-11 Machine Learning & Artificial Intelligence Transforms Retail & Hi Tech Manufacturing Meetup
 - 2017-08-16 A Neural Machine Translation Architecture at Facebook
 - 2017-08-17 Latest Innovations in Health Tech
