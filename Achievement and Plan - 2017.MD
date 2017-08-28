@@ -1,14 +1,19 @@
-# Accomplishments
+# Accomplishments (2017 May on ward)
+
+## Books
+- Hands-On Machine Learning with Scikit-Learn and TensorFlow_Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly
+
 ## Coursera
 - DS - Introduction to Data Science in Python
 - DL - Neural Networks and Deep Learning
 - DL - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - DL - Structuring Machine Learning Projects
 - Google - Serverless ML with TF on GCP
-## Code
-- 
 
-## Local meet up (May onward)
+## Code
+- Numerical and Scientific Computing with SciPy [Video]	
+
+## Local meet up
 - 2017-05-19 Zhihu at Standford
 - 2017-05-24 Kaggle Top 3 team share experience
 - 2017-06-15 Recommendation System
@@ -22,6 +27,9 @@
 - 2017-08-11 Machine Learning & Artificial Intelligence Transforms Retail & Hi Tech Manufacturing Meetup
 - 2017-08-16 A Neural Machine Translation Architecture at Facebook
 - 2017-08-17 Latest Innovations in Health Tech
+
+## Math
+- Quick Calculus - Chapter 1-2
 
 # Reference
 ## iPython 
@@ -77,7 +85,6 @@
 - SQL
 - Shell
 - R
-- CPP
-- JAVA
+- CPP/JAVA
 
 ## Math
