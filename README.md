@@ -88,8 +88,8 @@ The fact about the local meet up:
 
 ## Aug 27, 2017
 * Finsih Couersera Google - Serverless ML with TF on GCP. I guess Google count KPI by video numbers, not the user experience. I don't run the code (and even some of the video). I'd rather run more mature TF use cases. Go through the latest official document and turtorial is also a better option. Not suggest this course because 
-    * Not update， python 2.7 + TF 1.0
-    * Too many small clips, should be 4 modules * 10 videos * 10 minutes each
+    * Not update, python 2.7 + TF 1.0
+    * Too many small clips, idealy should be 4 modules * 10 videos * 10 minutes each
     * GCP changed significantly, not easy to find the right button. Local docker issue
 * Will give myself a little break in next few weeks, take more hands on practice and run more examples. Choose direction: 
     * DS(Python+Scikit Learn)
