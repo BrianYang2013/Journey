@@ -64,6 +64,8 @@
 
 ## TensorFlow
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- [Tensorflow official documents](https://www.tensorflow.org/get_started/)
+- [Tensorflow实战谷歌深度学习框架](https://github.com/caicloud/tensorflow-tutorial)
 - [TensorFlow Turtorial](https://github.com/Qinbf/Tensorflow)
 - [adeshpande3/Tensorflow-Programs-and-Tutorials](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials)
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
