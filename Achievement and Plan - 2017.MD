@@ -1,17 +1,17 @@
 # Accomplishments (2017 May on ward)
 
 ## Books
-- Hands-On Machine Learning with Scikit-Learn and TensorFlow_Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly
+- 2017-07-20 Hands-On Machine Learning with Scikit-Learn and TensorFlow_Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly
 
 ## Coursera
-- DS - Introduction to Data Science in Python
-- DL - Neural Networks and Deep Learning
-- DL - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- DL - Structuring Machine Learning Projects
-- Google - Serverless ML with TF on GCP
+- 2017-08-11 DS - Introduction to Data Science in Python
+- 2017-08-15 DL - Neural Networks and Deep Learning
+- 2017-08-24 DL - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- 2017-08-25 DL - Structuring Machine Learning Projects
+- 2017-08-27 Google - Serverless ML with TF on GCP
 
 ## Code
-- Numerical and Scientific Computing with SciPy [Video]	
+- 2017-05-11 Numerical and Scientific Computing with SciPy [Video]	
 
 ## Local meet up
 - 2017-05-19 Zhihu at Standford
@@ -88,3 +88,7 @@
 - CPP/JAVA
 
 ## Math
+- Statistics
+- Calculus
+- Linear Algreba
+
