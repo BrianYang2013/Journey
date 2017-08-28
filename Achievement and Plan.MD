@@ -1,0 +1,82 @@
+# Accomplishments
+## Coursera
+- DS - Introduction to Data Science in Python
+- DL - Neural Networks and Deep Learning
+- DL - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- DL - Structuring Machine Learning Projects
+- Google - Serverless ML with TF on GCP
+## Code
+- 
+
+## Local meet up (May onward)
+- 2017-05-19 Zhihu at Standford
+- 2017-05-24 Kaggle Top 3 team share experience
+- 2017-06-15 Recommendation System
+- 2017-06-27 NovuMind Speech
+- 2017-07-08 Deep Learning Overview
+- 2017-07-13 Coursera
+- 2017-07-23 Tencent Tech Day
+- 2017-07-27 B2B ML Challenge Discussion
+- 2017-08-01 AI for Physically Embodied System AND Intro to Apache Quickstep
+- 2017-08-11 Machine Learning & Artificial Intelligence Transforms Retail & Hi Tech Manufacturing Meetup
+- 2017-08-16 A Neural Machine Translation Architecture at Facebook
+- 2017-08-17 Latest Innovations in Health Tech
+
+# Reference
+## iPython 
+- [Markdown](http://www.jianshu.com/p/q81RER)
+- [A little bit more about Markdown](http://wen00072.github.io/blog/2013/09/15/learning-markdown-syntax/#blist)
+- [Add Table of Content to iPython Notebook](https://zhuanlan.zhihu.com/p/24029578)
+- [Another light options of ToC](https://github.com/kmahelona/ipython_notebook_goodies)
+
+## ML
+- [ROC and AUC](http://alexkong.net/2013/06/introduction-to-auc-and-roc/)
+
+## Basic
+- [Very basic of Git](https://zhuanlan.zhihu.com/p/27831772)
+- [Docker](https://yeasy.gitbooks.io/docker_practice/content/install/mac.html)
+
+
+# To do list
+- Review DL course code. That's really a good one from scratch. And review the note, especially C2/C3
+
+## Interesting 
+- https://github.com/lukas/ml-class
+- https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#statistics-machine-learning-and-data-science
+- https://github.com/allmachinelearning/MachineLearning
+
+## ML
+- Applied Data Science with Python
+- University of Illinois
+- Data Science Specialization
+- Neural Networks for Machine Learning
+- [CS231n](http://cs231n.github.io/neural-networks-3/)
+- Vairous books ... 
+
+## TensorFlow
+- [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- [TensorFlow Turtorial](https://github.com/Qinbf/Tensorflow)
+- [adeshpande3/Tensorflow-Programs-and-Tutorials](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials)
+- [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+- [ageron/handson-ml](https://github.com/ageron/handson-ml)
+- [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+- [Tensorflow and deep learning - without a PhD by Martin Görner](https://youtu.be/vq2nnJ4g6N0)
+
+## Domain 
+- BioInfomatics
+- Genomic DS
+
+## Basic 
+- Git & Github
+- Regex
+- EditPlus
+
+## Programming
+- Python
+- SQL
+- Shell
+- R
+- CPP
+- JAVA
+
+## Math
