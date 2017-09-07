@@ -99,6 +99,10 @@ The fact about the local meet up:
     * BioMedical/Genomic
     * CS231n
     
+## Sept, 2017
+* Review DL specialization course C1-C3, collect key notes into summary
+* [MXNET is interesting topic](https://github.com/zackchase/mxnet-the-straight-dope)
+    
 # Lesson learn
 * Focus on core skills. 
 * Practice, practice, practice. 
