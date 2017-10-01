@@ -102,6 +102,7 @@ The fact about the local meet up:
 ## Sept, 2017
 * Review DL specialization course C1-C3, collect key notes into summary
 * [MXNET is interesting topic](https://github.com/zackchase/mxnet-the-straight-dope)
+* [MACHINE LEARNING - DECISION TREES AND RANDOM FORESTS](https://www.safaribooksonline.com/library/view/machine-learning-/10000LCDTREES/)
     
 # Lesson learn
 * Focus on core skills. 
