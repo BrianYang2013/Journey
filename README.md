@@ -103,7 +103,15 @@ The fact about the local meet up:
 * Review DL specialization course C1-C3, collect key notes into summary
 * [MXNET is interesting topic](https://github.com/zackchase/mxnet-the-straight-dope)
 * [MACHINE LEARNING - DECISION TREES AND RANDOM FORESTS](https://www.safaribooksonline.com/library/view/machine-learning-/10000LCDTREES/)
-    
+       
+## May, 2021
+* 2018: Machine-Learning-Notes repository turns into private per company request. I was ranked number 4 in IT, across the whole group and hundreds of PhDs. Not bad. Lesson learn: I missed the data leakage, and also mess up in the stacking. My bad. 
+* 2018 April: Give a speech to 500 IT on the company IT day, talk about my machine learning journey. Public speaking is always scary. 
+* 2018 June to 2020 Feb: Back to APAC to rebuild APAC ERP analytics team in Malaysia, Kuala Lumpur. 
+* 2020: Move back to the bay area, settle down, WFH, setup a Data Science resource pool in Canada, Missisauga. Prepare TOEFL and DS/ML master application
+* 2021 Q1: Re-organization announced in the first week of Jan, and I am the only one left. Super busy to make a smooth transition for the organizawtion change, rebuild the US ERP analytics team. 
+* 2021 June to 2024 ??: Please reference my [AI master program journey @ JHU](https://github.com/BrianYang2013/JHU_AI_Journey).
+
 # Lesson learn
 * Focus on core skills. 
 * Practice, practice, practice. 
