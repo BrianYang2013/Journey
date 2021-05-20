@@ -105,7 +105,7 @@ The fact about the local meet up:
 * [MACHINE LEARNING - DECISION TREES AND RANDOM FORESTS](https://www.safaribooksonline.com/library/view/machine-learning-/10000LCDTREES/)
        
 ## May, 2021
-* 2018: Machine-Learning-Notes repository turns into private per company request. I was ranked number 4 in IT, across the whole group and hundreds of PhDs. Not bad. Lesson learn: I missed the data leakage, and also mess up in the stacking. My bad. 
+* 2018: Machine-Learning-Notes repository turns into private per company request. In the first internal competition, I ranked number 4 in IT, 16 across the whole group and hundreds of PhDs, not bad. Lesson learn: I missed the data leakage, and also mess up in the stacking. My bad. 
 * 2018: Prepare for Master program. Unfortunately it was interrupped by an international assignment. 
 * 2018 April: Give a speech to 500 IT on the company IT day, talk about my machine learning journey. Public speaking is always scary. 
 * 2018 June to 2020 Feb: Back to APAC to rebuild APAC ERP analytics team in Malaysia, Kuala Lumpur. 
