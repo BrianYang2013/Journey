@@ -106,11 +106,15 @@ The fact about the local meet up:
        
 ## May, 2021
 * 2018: Machine-Learning-Notes repository turns into private per company request. I was ranked number 4 in IT, across the whole group and hundreds of PhDs. Not bad. Lesson learn: I missed the data leakage, and also mess up in the stacking. My bad. 
+* 2018: Prepare for Master program. Unfortunately it was interrupped by an international assignment. 
 * 2018 April: Give a speech to 500 IT on the company IT day, talk about my machine learning journey. Public speaking is always scary. 
 * 2018 June to 2020 Feb: Back to APAC to rebuild APAC ERP analytics team in Malaysia, Kuala Lumpur. 
-* 2020: Move back to the bay area, settle down, WFH, setup a Data Science resource pool in Canada, Missisauga. Prepare TOEFL and DS/ML master application
-* 2021 Q1: Re-organization announced in the first week of Jan, and I am the only one left. Super busy to make a smooth transition for the organizawtion change, rebuild the US ERP analytics team. 
-* 2021 June to 2024 ??: Please reference my [AI master program journey @ JHU](https://github.com/BrianYang2013/JHU_AI_Journey).
+* 2020: Move back to the bay area, settle down, WFH, setup a Data Science resource pool in Canada, Missisauga. 
+* 2020: Resume my DS master application. 3 applications, 3 offers. 
+* 2021 Jan to May: Re-organization announced in the first week of Jan, and I am the only one left. Super busy to make a smooth transition for the organizawtion change, rebuild the US ERP analytics team. 
+
+## 2021 June to 2024 ??: 
+* Plan to record my journey in this separate repository: [AI master program journey @ JHU](https://github.com/BrianYang2013/JHU_AI_Journey).
 
 # Lesson learn
 * Focus on core skills. 
