@@ -29,7 +29,7 @@ The fact about the local meet up:
 ## May 2, 2016
 * Explore spider, anti-spider and anti anti-spider. 
 * Find a couple of interesting scenarios. 
- 
+
 ## May 8, 2016
 * Finish first MOOC course: Machine Learning Foundations: A Case Study Approach
 * Wrap up, Revisit all the ipython notebook from that course. 
@@ -103,8 +103,8 @@ The fact about the local meet up:
 * Review DL specialization course C1-C3, collect key notes into summary
 * [MXNET is interesting topic](https://github.com/zackchase/mxnet-the-straight-dope)
 * [MACHINE LEARNING - DECISION TREES AND RANDOM FORESTS](https://www.safaribooksonline.com/library/view/machine-learning-/10000LCDTREES/)
-       
-## May, 2021
+## 2018-2020: On assignment
+
 * 2018: Machine-Learning-Notes repository turns into private per company request. In the first internal competition, I ranked number 4 in IT, 16 across the whole group and hundreds of PhDs, not bad. Lesson learn: I missed the data leakage, and also mess up in the stacking. My bad. 
 * 2018: Prepare for Master program. Unfortunately it was interrupped by an international assignment. 
 * 2018 April: Give a speech to 500 IT on the company IT day, talk about my machine learning journey. Public speaking is always scary. 
@@ -113,8 +113,12 @@ The fact about the local meet up:
 * 2020: Resume my DS master application. 3 applications, 3 offers. 
 * 2021 Jan to May: Re-organization announced in the first week of Jan, and I am the only one left. Super busy to make a smooth transition for the organizawtion change, rebuild the US ERP analytics team. 
 
-## 2021 June to 2024 ??: 
-* Plan to record my journey in this separate repository: [AI master program journey @ JHU](https://github.com/BrianYang2013/JHU_AI_Journey).
+## 2021-2024: JHU AI Master Program
+* Record my journey in this separate repository: [AI master program journey @ JHU](https://github.com/BrianYang2013/JHU_AI_Journey).
+
+## 2024 May
+
+- 
 
 # Lesson learn
 * Focus on core skills. 
