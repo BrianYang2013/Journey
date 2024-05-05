@@ -118,7 +118,7 @@ The fact about the local meet up:
 
 ## 2024 May
 
-- 
+- Start LLM journey: [LLMs](https://github.com/BrianYang2013/LLMs)
 
 # Lesson learn
 * Focus on core skills. 
